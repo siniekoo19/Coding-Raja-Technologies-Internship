@@ -1,2 +1,2 @@
 # Coding-Raja-Technologies-Internship
-Sentiment Analysis
+Sentiment Analysis and Image Classification
